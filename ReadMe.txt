@@ -31,3 +31,5 @@ Save all files to the same directory
 ##### Run the simulation ###########
 ####################################
 The simulation can be started from: PatriotAirDefense_simulation.java
+
+*Note, navigate to the correct file folder before running the code.
