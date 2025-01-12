@@ -1,7 +1,7 @@
 #################################
 ########## Simulation ###########
 #################################
-The PatriotAirDefense code simulates a Patriot air defense system consisting of three components:
+The PatriotAirDefense code simulates a Patriot air defence system consisting of three components:
 1. A Radar
   The radar scans for threats every second.
   It does this by reading a line per second from radar_data.csv.
@@ -12,7 +12,7 @@ The PatriotAirDefense code simulates a Patriot air defense system consisting of 
 
 3. A Missile launcher
   If a foe has been detected, a missile will be launched.
-  The missile has a probability of kill-ratio of 0.8
+  The missile has a probability-of-kill ratio of 0.8
 
 
 ############################
@@ -24,6 +24,7 @@ The PatriotAirDefense simulation requires 5 files:
  - IFF.java
  - missile.java
  - radar_data.csv
+Save all files to the same directory
 
 
 ####################################
