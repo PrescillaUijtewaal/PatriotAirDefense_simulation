@@ -3,6 +3,7 @@
 #################################
 ########## Simulation ###########
 #################################
+
 The PatriotAirDefense code simulates a Patriot air defense system in JAVA.
 The simulation consists of three components:
 1. A Radar
@@ -21,6 +22,7 @@ The simulation consists of three components:
 ############################
 ########## Files ###########
 ############################
+
 The PatriotAirDefense simulation requires 5 files:
  - PatriotAirDefense_simulation.java
  - Radar.java
@@ -32,4 +34,5 @@ The PatriotAirDefense simulation requires 5 files:
 ####################################
 ##### Run the simulation ###########
 ####################################
+
 The simulation can be started from: PatriotAirDefense_simulation.java
